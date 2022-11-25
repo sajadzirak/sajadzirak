@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajadzirak
+- 👋 Hi, I’m Sajad Zirak
 - 👀 I’m interested in programming && AI && IT world
 - 🌱 I’m currently learning C language && improving my python skills
 - 📫 Contact me : iriafmig29@gmail.com
