@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sajad Zirak
-- 👀 I’m interested in programming && AI && IT world
-- 🌱 I’m currently learning C language && improving my python skills
+- I’m interested in programming && AI && IT world
+- I also love Linux
+- I'm familiar with C language
+- I’m currently learning Java language && improving my python skills
 - 📫 Contact me : iriafmig29@gmail.com
 
 <!---
