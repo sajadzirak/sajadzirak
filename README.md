@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sajad Zirak
-- I’m interested in programming && AI && IT world
+- I’m interested in programming
 - I also love Linux
-- I'm familiar with C language
-- I’m currently learning Java language && improving my python skills
-- 📫 Contact me : iriafmig29@gmail.com
+- I'm familiar with C && java language
+- I’m currently improving my python skills
+- 📫 Contact me : sajadzirakf@gmail.com
 
 <!---
 sajadzirak/sajadzirak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
