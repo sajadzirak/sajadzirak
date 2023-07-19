@@ -2,7 +2,7 @@
 - I’m interested in programming
 - I also love Linux
 - I'm familiar with C && java language
-- I’m currently improving my python skills
+- I’m currently improving my javascript skills
 - 📫 Contact me : sajadzirakf@gmail.com
 
 <!---
