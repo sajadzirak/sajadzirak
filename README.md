@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sajad Zirak
 - I’m interested in programming
 - I also love Linux
-- I'm familiar with C, c++, javascript, java
-- I’m currently learninig web development
+- I'm familiar with C, C++, javascript, java, and Go
+- I’m currently learninig web development and cyber cecurity
 - 📫 Contact me : sajadzirakf@gmail.com
 
 <!---
